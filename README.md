@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddharthasonker
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently working as Sofware Engineer at Zynga 
-- 💞️ I’m looking to collaborate on any kind of backend development
+- 🌱 I’m currently working as Senior Sofware Engineer 2 at Harness 
+- 💞️ I’m looking to collaborate on any backend development
 - 📫 How to reach me www.linkedin.com/in/siddharthasonker/
 
 <!---
